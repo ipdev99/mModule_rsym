@@ -1,0 +1,6 @@
+id=rmYouTube
+name=Remove YouTube Music
+version=Module
+versionCode=00001
+author=ip
+description=Replace stock YouTube Music with zero byte files. (Android 11)
