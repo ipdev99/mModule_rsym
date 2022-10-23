@@ -1,11 +1,12 @@
-## Replace System YouTube
+## Replace System YouTube Music
 
 **Magisk Module**<br>
-_Simple module that will replace system installed YouTube_
+_Simple module that will replace system installed YouTube Music_
 
 ### About
-This module was written to remove the system YouTube Music that comes with Google's Android 13.<br>
-_YouTube Music v5.04.51 is the version packaged in Android 13_
+This module was written to remove the system YouTube Music that comes with stock Google Android.<br>
+_YouTube Music v4.33.56 is the version packaged in Android 12_<br>
+_YouTube Music v5.04.51 is the version packaged in Android 13_<br>
 
 This is done by using Magisk to overlay the files in _/system/product/app/YouTubeMusicPrebuilt/_ with zero byte files.
 
